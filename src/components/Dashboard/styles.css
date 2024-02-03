@@ -1,0 +1,11 @@
+.container {
+    overflow: auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px
+  }
+  
+  .heading {
+    margin-bottom: 20px;
+  }
