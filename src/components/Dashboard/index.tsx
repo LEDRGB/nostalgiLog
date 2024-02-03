@@ -54,10 +54,8 @@ const Dashboard = () => {
                     <CardPieChart data={data}/>
                     <CardBarChart data={data}/>
                     <CardLateralBarchart data={data}/>
-                    <Hourglass size={32} style={{ margin: 20 }} />
                   </>
                 }
-
             </div>
         </ThemeProvider>
 
